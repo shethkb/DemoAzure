@@ -1,0 +1,17 @@
+{
+	"name": "SourceDataset_ioa",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureSqlMI1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlMITable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "Contact"
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

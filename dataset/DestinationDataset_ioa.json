@@ -1,0 +1,17 @@
+{
+	"name": "DestinationDataset_ioa",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureSqlMI1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlMITable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "Contact1"
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
