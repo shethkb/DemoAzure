@@ -7,3 +7,6 @@ Changes made to enhancement branch v1.2
 =======
 Changes made to enhancement remote branch
 >>>>>>> 28429ae2238b861de3bead2931de7e22b6931fe1
+
+Changes made to enhancement remote branch v.1.11
+
